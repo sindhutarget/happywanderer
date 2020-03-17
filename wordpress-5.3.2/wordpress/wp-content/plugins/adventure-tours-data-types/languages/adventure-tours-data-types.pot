@@ -1,0 +1,380 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: adventure-tours-data-types 2.4.0\n"
+"POT-Creation-Date: 2019-12-22 10:54+0200\n"
+"PO-Revision-Date: 2016-03-05 15:01+0300\n"
+"Last-Translator: Themdelight <themedelight@gmail.com>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-KeywordsList: __:1;_e:1;_n:1,2;_x:1;_ex:1,2c;_nx:1,2,4c;"
+"esc_attr__:1;esc_attr_e:1;esc_attr_x:1,2c;esc_html__:1;esc_html_e:1;"
+"esc_html_x:1,2c;gettext_noop\n"
+"X-Poedit-Basepath: ./..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/ATDTP_Data_Types_Registrator.php:58
+msgid "Tour Categories"
+msgstr ""
+
+#: classes/ATDTP_Data_Types_Registrator.php:59
+msgid "Tour Category"
+msgstr ""
+
+#: classes/ATDTP_Data_Types_Registrator.php:84
+msgid "Media Categories"
+msgstr ""
+
+#: classes/ATDTP_Data_Types_Registrator.php:85
+msgid "Media Category"
+msgstr ""
+
+#: classes/ATDTP_Data_Types_Registrator.php:100
+msgid "FAQs"
+msgstr ""
+
+#: classes/ATDTP_Data_Types_Registrator.php:102
+msgid "Add New Question"
+msgstr ""
+
+#: classes/ATDTP_Data_Types_Registrator.php:103
+msgid "Edit Question"
+msgstr ""
+
+#: classes/ATDTP_Data_Types_Registrator.php:126
+msgid "FAQ Categories"
+msgstr ""
+
+#: classes/ATDTP_Data_Types_Registrator.php:127
+msgid "FAQ Category"
+msgstr ""
+
+#: classes/ATDTP_Data_Types_Registrator.php:136
+msgid "Header Sections"
+msgstr ""
+
+#: classes/ATDTP_Data_Types_Registrator.php:138
+msgid "Add New Section"
+msgstr ""
+
+#: classes/ATDTP_Data_Types_Registrator.php:139
+msgid "Edit Section"
+msgstr ""
+
+#: classes/ATDTP_Shortcodes_FAQ_Question_Form.php:202
+msgid "Please reload the page and resubmit the form again."
+msgstr ""
+
+#: classes/ATDTP_Shortcodes_FAQ_Question_Form.php:203
+msgid "Your question has been submitted successfully."
+msgstr ""
+
+#: classes/ATDTP_Shortcodes_FAQ_Question_Form.php:204
+msgid "Your question has not been submitted. Please contact support."
+msgstr ""
+
+#: classes/ATDTP_Shortcodes_FAQ_Question_Form.php:205
+msgid "Please fill in all required fields."
+msgstr ""
+
+#: classes/ATDTP_Shortcodes_FAQ_Question_Form.php:206
+msgid "Fill in the required field."
+msgstr ""
+
+#: classes/ATDTP_Shortcodes_FAQ_Question_Form.php:207
+msgid "Email invalid."
+msgstr ""
+
+#: classes/ATDTP_Shortcodes_FAQ_Question_Form.php:208
+msgid "FAQs: new question"
+msgstr ""
+
+#: classes/ATDTP_Shortcodes_Helper.php:791
+msgid "Typography"
+msgstr ""
+
+#: classes/ATDTP_Shortcodes_Helper.php:799
+msgid "Tables"
+msgstr ""
+
+#: classes/ATDTP_Shortcodes_Helper.php:804
+msgid "Tours"
+msgstr ""
+
+#: classes/ATDTP_Shortcodes_Helper.php:815
+msgid "Contact"
+msgstr ""
+
+#: classes/ATDTP_Shortcodes_Helper.php:820
+msgid "External Services"
+msgstr ""
+
+#: classes/ATDTP_Shortcodes_Helper.php:826
+msgid "Other"
+msgstr ""
+
+#: classes/ATDTP_Shortcodes_VC_Content_Normilizer.php:111
+msgid ""
+"Post content has been converted according to Visual Composer plugin "
+"requirements."
+msgstr ""
+
+#: classes/ATDTP_Shortcodes_VC_Content_Normilizer.php:119
+#, php-format
+msgid ""
+"This post content should be converted for Visual Composer. Please click %s "
+"to convert your post content."
+msgstr ""
+
+#: classes/ATDTP_Shortcodes_VC_Content_Normilizer.php:122
+msgid "convert content"
+msgstr ""
+
+#: classes/ATDTP_Shortcodes_Visual_Composer.php:142
+msgid "Select image"
+msgstr ""
+
+#: classes/ATDTP_Shortcodes_Visual_Composer.php:151
+msgid "Home page"
+msgstr ""
+
+#: classes/ATDTP_Shortcodes_Visual_Composer.php:156
+msgid "Contact page"
+msgstr ""
+
+#: classes/ATDTP_Shortcodes_Visual_Composer.php:178
+msgid "Icon item"
+msgstr ""
+
+#: classes/ATDTP_Shortcodes_Visual_Composer.php:234
+msgid "Timeline item"
+msgstr ""
+
+#: classes/ATDTP_Shortcodes_Visual_Composer.php:289
+msgid "Icon"
+msgstr ""
+
+#: includes/shortcodes_dynamic.php:28
+msgid "Read more"
+msgstr ""
+
+#: includes/shortcodes_dynamic.php:73
+msgid "Latest Posts"
+msgstr ""
+
+#: includes/shortcodes_dynamic.php:86
+msgid "Filter items from specific category (enter category slug)."
+msgstr ""
+
+#: includes/shortcodes_dynamic.php:89 includes/shortcodes_dynamic.php:281
+#: includes/shortcodes_dynamic.php:364 includes/shortcodes_dynamic.php:478
+#: includes/shortcodes_dynamic.php:588 includes/shortcodes_dynamic.php:721
+#: includes/shortcodes_dynamic.php:860
+msgid "Specify exact ids of items that should be displayed separated by comma."
+msgstr ""
+
+#: includes/shortcodes_dynamic.php:150
+msgid "Tour Search Form"
+msgstr ""
+
+#: includes/shortcodes_dynamic.php:191
+msgid "Tour Search Form Horizontal"
+msgstr ""
+
+#: includes/shortcodes_dynamic.php:261
+msgid "Tour Category Images"
+msgstr ""
+
+#: includes/shortcodes_dynamic.php:289 includes/shortcodes_dynamic.php:372
+#: includes/shortcodes_dynamic.php:494 includes/shortcodes_dynamic.php:604
+msgid "Auto sliding interval in seconds."
+msgstr ""
+
+#: includes/shortcodes_dynamic.php:340
+msgid "Tour Category Icons"
+msgstr ""
+
+#: includes/shortcodes_dynamic.php:354 includes/shortcodes_dynamic.php:506
+#: includes/shortcodes_dynamic.php:609
+msgid "Select image that should be used as background."
+msgstr ""
+
+#: includes/shortcodes_dynamic.php:433
+msgid "Tours Carousel"
+msgstr ""
+
+#: includes/shortcodes_dynamic.php:448 includes/shortcodes_dynamic.php:691
+#: includes/shortcodes_dynamic.php:830
+msgid "Filter items from specific tour category (enter category slug)."
+msgstr ""
+
+#: includes/shortcodes_dynamic.php:451 includes/shortcodes_dynamic.php:694
+#: includes/shortcodes_dynamic.php:833
+msgid ""
+"Specify tour categories ID's (separated by comma) of items that you want to "
+"display."
+msgstr ""
+
+#: includes/shortcodes_dynamic.php:463 includes/shortcodes_dynamic.php:706
+#: includes/shortcodes_dynamic.php:845
+msgid "Specify attribute slug for filtering."
+msgstr ""
+
+#: includes/shortcodes_dynamic.php:466 includes/shortcodes_dynamic.php:709
+#: includes/shortcodes_dynamic.php:848
+msgid "Specify attribute term slugs, or term ids separated by comma."
+msgstr ""
+
+#: includes/shortcodes_dynamic.php:567
+msgid "Products Carousel"
+msgstr ""
+
+#: includes/shortcodes_dynamic.php:582
+msgid "Filter items from specific product category (enter category slug)."
+msgstr ""
+
+#: includes/shortcodes_dynamic.php:585
+msgid ""
+"Specify product categories ID's (separated by comma) of items that you want "
+"to display."
+msgstr ""
+
+#: includes/shortcodes_dynamic.php:645 includes/shortcodes_dynamic.php:786
+msgid "View more"
+msgstr ""
+
+#: includes/shortcodes_dynamic.php:676
+msgid "Tours Grid"
+msgstr ""
+
+#: includes/shortcodes_dynamic.php:815
+msgid "Tours List"
+msgstr ""
+
+#: includes/shortcodes_dynamic.php:942
+msgid "Tour Reviews"
+msgstr ""
+
+#: includes/shortcodes_static.php:17
+msgid "Columns"
+msgstr ""
+
+#: includes/shortcodes_static.php:42
+msgid "Accordion"
+msgstr ""
+
+#: includes/shortcodes_static.php:68
+msgid "Tabs"
+msgstr ""
+
+#: includes/shortcodes_static.php:120
+msgid "Title"
+msgstr ""
+
+#: includes/shortcodes_static.php:194
+msgid "Social Icons"
+msgstr ""
+
+#: includes/shortcodes_static.php:238
+msgid "Contact Info"
+msgstr ""
+
+#: includes/shortcodes_static.php:278
+msgid "MailChimp Form"
+msgstr ""
+
+#: includes/shortcodes_static.php:337
+msgid "Google Map"
+msgstr ""
+
+#: includes/shortcodes_static.php:340
+msgid "The address will show up when clicking on the map marker."
+msgstr ""
+
+#: includes/shortcodes_static.php:344
+msgid "Coordinates separated by comma."
+msgstr ""
+
+#: includes/shortcodes_static.php:349
+msgid "Number in range from 1 up to 21."
+msgstr ""
+
+#: includes/shortcodes_static.php:387
+msgid "Google Map Embed"
+msgstr ""
+
+#: includes/shortcodes_static.php:421
+msgid "Icon Tick"
+msgstr ""
+
+#: includes/shortcodes_static.php:458
+msgid "Timeline"
+msgstr ""
+
+#: includes/shortcodes_static.php:534
+msgid "Icons Set"
+msgstr ""
+
+#: includes/shortcodes_static.php:638
+msgid "Button"
+msgstr ""
+
+#: includes/shortcodes_static.php:745
+msgid "Adventure Tours Icon"
+msgstr ""
+
+#: templates/shortcodes/faq_question_form.php:24
+msgid "Name"
+msgstr ""
+
+#: templates/shortcodes/faq_question_form.php:27
+msgid "Email"
+msgstr ""
+
+#: templates/shortcodes/faq_question_form.php:30
+#: templates/shortcodes/faq_question_form_email.php:18
+msgid "Question"
+msgstr ""
+
+#: templates/shortcodes/faq_question_form.php:34
+msgid "Send Question"
+msgstr ""
+
+#: templates/shortcodes/faq_question_form_email.php:16
+msgid "New question for FAQs"
+msgstr ""
+
+#: templates/shortcodes/faq_question_form_email.php:17
+msgid "From"
+msgstr ""
+
+#: templates/shortcodes/mailchimp_form.php:27
+msgid ""
+"Please enter the MailChimp List ID settings in the MailChimp Form "
+"[mailchimp_form] shortcode."
+msgstr ""
+
+#: templates/shortcodes/tour_search_form.php:28
+#: templates/shortcodes/tour_search_form_horizontal.php:28
+msgctxt "placeholder"
+msgid "Search"
+msgstr ""
+
+#: templates/shortcodes/tour_search_form.php:30
+#: templates/shortcodes/tour_search_form_horizontal.php:30
+msgid "Search"
+msgstr ""
+
+#: templates/shortcodes/tours_list.php:73
+msgid "per person"
+msgstr ""
+
+#: templates/shortcodes/tours_list.php:74
+msgid "view tour"
+msgstr ""
